@@ -75,15 +75,8 @@ body {
   width: 10px;
 }
 
-button {
-/*   background-color: #ffffff;
-  color: #2a2a2a;
-  padding: 15px 15px;
-  border: none; */
-}
-button:hover {
-  /* background-color: #d6336c; */
-}
+
+
 .nav-dropdown.is-active {
   display: block;
 }
@@ -138,6 +131,8 @@ button:hover {
   font-weight: bold;
   text-align: center;
 }
+
+/* Footer section styling */
 
 footer {
   
